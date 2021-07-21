@@ -1,4 +1,4 @@
-# Lux_PM_DATA_Science-Interview-Assignment
+# LuxPM Data Science Interview Assignment
 
 ## Question Asked
 ## 1. Convert the image into a gray-scale format
